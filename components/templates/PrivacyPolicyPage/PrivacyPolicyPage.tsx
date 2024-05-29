@@ -43,7 +43,7 @@ const PrivacyPolicyPage = () => {
                 персональных данных (далее – Политика) применяется ко всей
                 информации, которую Оператор может получить о посетителях
                 веб-сайта&nbsp;
-                <a href='https://rostelecom.ru'>https://rostelecom.ru</a>.
+                <a href='https://rostelecom.ru'>https://sleepwalker.ru</a>.
               </li>
             </ol>
             <h3>2. Основные понятия, используемые в Политике</h3>

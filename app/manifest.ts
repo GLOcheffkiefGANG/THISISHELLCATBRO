@@ -2,10 +2,10 @@ import { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Rostelecom Application',
-    short_name: 'Rostelecom App',
+    name: 'Sleepwalker Application',
+    short_name: 'Sleepwalker App',
     description:
-      'Rostelecom магазин одежды, аксесуаров, концелярии и сувениров',
+      'Sleepwalker магазин одежды, аксесуаров, концелярии и сувениров',
     start_url: '/',
     background_color: '#fff',
     theme_color: '#fff',
@@ -18,9 +18,9 @@ export default function manifest(): MetadataRoute.Manifest {
         purpose: 'maskable',
       },
       {
-        src: '/img/logo.png',
+        src: '/img/logo.jpg',
         sizes: '196x196 512x512 144x144 192x192 128x128 120x120 180x180',
-        type: 'image/png',
+        type: 'image/jpg',
         purpose: 'any',
       },
     ],

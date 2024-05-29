@@ -41,7 +41,7 @@ export const useCartItemAction = (cartItem: ICartItem) => {
         'cart',
         setCartFromLS,
         setShouldShowEmpty,
-        'Удалено из карзины!'
+        'Удалено из корзины!'
       )
       return
     }
