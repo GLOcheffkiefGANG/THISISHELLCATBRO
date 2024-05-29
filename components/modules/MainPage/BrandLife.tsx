@@ -5,7 +5,6 @@ import useImagePreloader from '@/hooks/useImagePreloader'
 import { useLang } from '@/hooks/useLang'
 import { useMediaQuery } from '@/hooks/useMediaQuery'
 import img1 from '@/public/img/brands-life.png'
-import img2 from '@/public/img/categories-img-1.png'
 import MainSlider from './MainSlider'
 import styles from '@/styles/main-page/index.module.scss'
 
@@ -20,8 +19,8 @@ const BrandLife = () => {
 
   const images = [
     { src: img1, id: 1, title: translations[lang].main_page.brand_nature },
-    { src: img2, id: 1, title: translations[lang].main_page.brand_look },
-    { src: img2, id: 1, title: translations[lang].main_page.brand_idea },
+    { src: img1, id: 1, title: translations[lang].main_page.brand_look },
+    { src: img1, id: 1, title: translations[lang].main_page.brand_idea },
   ]
 
   return (
@@ -59,7 +58,7 @@ const BrandLife = () => {
                 className={`${styles.brands__list__item__link} ${styles.categories__img} ${imgSpinnerClass}`}
               >
                 <Image
-                  src={img2}
+                  src={img1}
                   alt={translations[lang].main_page.brand_look}
                   className='transition-opacity opacity-0 duration'
                   onLoad={handleLoadingImageComplete}
@@ -77,7 +76,7 @@ const BrandLife = () => {
                 className={`${styles.brands__list__item__link} ${styles.categories__img} ${imgSpinnerClass}`}
               >
                 <Image
-                  src={img2}
+                  src={img1}
                   alt={translations[lang].main_page.brand_idea}
                   className='transition-opacity opacity-0 duration'
                   onLoad={handleLoadingImageComplete}
