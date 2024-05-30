@@ -110,7 +110,7 @@
       "is_bestseller": "Bestseller",
       "tShirt": "T-Shirt",
       "violet": "violet",
-      "orange": "orange",
+      "orange": "with cat",
       "black": "black"
     },
     "product": {
@@ -150,7 +150,7 @@
       "size": "Size",
       "color": "Color",
       "purpure": "Purpure",
-      "orange": "Orange",
+      "orange": "with cat",
       "yellow": "Yellow",
       "black": "Black",
       "white": "White",
@@ -353,7 +353,7 @@
       "is_bestseller": "Хит",
       "tShirt": "Футболка",
       "violet": "фиолетовая",
-      "orange": "оранжевая",
+      "orange": "с котиком",
       "black": "черная"
     },
     "product": {
@@ -390,10 +390,10 @@
       "to": "До",
       "rub": "руб.",
       "done": "Готово",
-      "size": "Размер",
+      "size": "Размер", 
       "color": "Цвет",
       "purpure": "Пурпурный",
-      "orange": "Оранжевый",
+      "orange": "с котиком",
       "yellow": "Желтый",
       "black": "Черный",
       "white": "Белый",

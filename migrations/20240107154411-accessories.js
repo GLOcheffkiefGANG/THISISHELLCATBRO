@@ -8,7 +8,7 @@ const colors = ['purpure', 'yellow', 'orange', 'black', 'white']
 const compositions = ['cotton', 'synthetics', 'polyester']
 const accessoryTypes = ['bags', 'headdress', 'umbrella']
 const images = [
-  '/img/accessories/accessories-bags-1.png',
+  '/img/accessories/accessories-bags-1.gif',
   '/img/accessories/accessories-bags-2.png',
   '/img/accessories/accessories-bags-3.png',
   '/img/accessories/accessories-bags-4.png',
