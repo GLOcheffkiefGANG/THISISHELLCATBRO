@@ -13,8 +13,8 @@ const images = [
   '/img/clothes/cloth-long-sleeves-2.png',
   '/img/clothes/cloth-outerwear-1.png',
   '/img/clothes/cloth-outerwear-2.png',
-  '/img/clothes/cloth-t-shirts-1.jpg',
-  '/img/clothes/cloth-t-shirts-2.png',
+  '/img/clothes/cloth-t-shirts-1.png',
+  '/img/clothes/cloth-t-shirts-2.webp',
 ]
 const lineImages = [
   '/img/clothes/cloth-long-sleeves-1.png',
